@@ -1,2 +1,2 @@
 # IHDS_Dashboard
-Summer Interns Project on Policy-learning for Maternal and Child Health 
+Dashboard for learning actionable policy for better delivery of maternal and child health measures in India. 
